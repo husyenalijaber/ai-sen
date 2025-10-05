@@ -1,0 +1,16 @@
+{
+  "name": "granite-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "web-app/server.js",
+  "scripts": {
+    "start": "node web-app/server.js"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1",
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "replicate": "^1.2.0"
+  }
+}

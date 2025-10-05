@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "2": "capstone-landing-83b2b",
+    "default": "capstone-landing-83b2b",
+    "ibm": "ai-sen-8b395"
+  },
+  "targets": {},
+  "etags": {}
+}
